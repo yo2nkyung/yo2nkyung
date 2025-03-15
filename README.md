@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 >Yoonkyung Lee </h1>
+<p>
+  <a href="www.linkedin.com/in/yo2nkyunglee"><img alt="YoonkyungLee's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+</p>
+
+## HIGHLIGHTED PROJECTS
+
+## HIGHLIGHTED COURSES
+
+### M.S. at University of Texas at Dallas
+
+### B.S. at Ewha Womans University (South Korea)
